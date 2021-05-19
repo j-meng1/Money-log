@@ -2,7 +2,6 @@ import csv
 from datetime import datetime
 import os
 import pathlib
-import pandas
 import PySimpleGUI as sg
 
 file = pathlib.Path("money_log.csv")
